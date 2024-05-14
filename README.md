@@ -1,3 +1,4 @@
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=durgesh-h&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshprasad" /> </p>
 
 <h1 align="center">
@@ -5,7 +6,9 @@
 </h1>
 
 <h3 align="center">A Passionate Fullstack Software Developer</h3>
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+</p>
 <br/>
 
 <div align="center">
@@ -20,13 +23,14 @@
  </div>
 
 <div align="center"> 
-     <h2>Connect with me:</h2>
+     <h2>Connect with me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /></h2>
   <a href="mailto:durgeshhh.in@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="durgeshprasad" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/durgesh-h" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="durgeshprasad" />
   </a>
+ <a href="https://wa.me/918349305696" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://durgeshprasad.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" alt="durgeshprasad" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -40,7 +44,9 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
       <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-h&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=durgesh-h&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+    
 </div>
 </div>
 
@@ -71,14 +77,13 @@
 </div>
 
 <hr/>
+<div align="center" display="flex">
+ <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" height="30"/> Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" height="30"/> </h1>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=durgesh-h&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=durgesh-h&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ [![Durgesh's github stats](https://bad-apple-github-readme.vercel.app/api?username=durgesh-h&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
+[![Durgesh Prasad's current streak](https://streak-stats.demolab.com/?user=durgesh-h&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+</div>
 <br/><br/>
 
 <hr/>
@@ -96,5 +101,9 @@
 <div align="center">
 <a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <br/>
