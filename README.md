@@ -8,9 +8,8 @@
 <h3 align="center">A Passionate Fullstack Software Developer</h3>
 
 <div align="center">
-  
-<img  src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611597cbb8f2a57ea1e22472c70a2e6f0e623ad2e80&rid=giphy.gif&ct=s" width="150px"/> <br>
-  <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ4b2R5eG53enFodTY4dWIycXMxbDF0ZjNydm9ibDkyN3Y5d3QxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eGlWh8b2oDeSuFjGM6/giphy.gif" width="850px" height="180px" />
+  <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFyODY0YzNxYjFvMWp5amV6cHltbThweTgwYnlkY2ZhOTVsYjFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" />
+    <img  src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611597cbb8f2a57ea1e22472c70a2e6f0e623ad2e80&rid=giphy.gif&ct=s" width="150px"/> 
 </div>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
