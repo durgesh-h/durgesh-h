@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="durgeshprasad" />
   </a>
  <a href="https://wa.me/918349305696" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://durgeshprasad.vercel.app" target="_blank">
+  <a href="https://durgeshprasad.co" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" alt="durgeshprasad" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
