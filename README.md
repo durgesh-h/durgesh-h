@@ -52,8 +52,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
       <br/>
-    
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=durgesh-h&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<a href="https://gitroll.io/profile/uxABQSGo8o6f9518OmGzkkDUdCVw1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxABQSGo8o6f9518OmGzkkDUdCVw1?theme=tokyoNight" alt="GitRoll Profile Badge" width="400"/></a>
+<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=durgesh-h&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Languages" width="400"/> 
     
 </div>
 </div>
