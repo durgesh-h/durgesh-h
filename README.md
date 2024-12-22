@@ -101,8 +101,6 @@
     
 [![durgesh-h's GitHub | Stats](https://stats.quine.sh/durgesh-h/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgesh-h)
 
-[![durgesh-h's GitHub | Topics Over Time](https://stats.quine.sh/durgesh-h/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgesh-h)
-
 </div>
 <div align="center">
 <a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
