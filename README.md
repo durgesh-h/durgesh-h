@@ -101,8 +101,6 @@
     
 [![durgesh-h's GitHub | Stats](https://stats.quine.sh/durgesh-h/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgesh-h)
 
-[![durgesh-h's GitHub | Languages Over Time](https://stats.quine.sh/durgesh-h/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgesh-h)
-
 [![durgesh-h's GitHub | Topics Over Time](https://stats.quine.sh/durgesh-h/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgesh-h)
 
 </div>
