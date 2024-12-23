@@ -1,14 +1,13 @@
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=durgesh-h&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshprasad" /> </p>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Durgesh+Prasad!;" alt="durgeshprasad" />
-</h1>
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="durgeshprasad" />
 </h1>
 
-<h3 align="center">A Passionate Fullstack Software Developer</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=durgesh-h&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshprasad" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Durgesh+Prasad!;+A+Software+Developer😎;" alt="durgeshprasad" />
+    <h3 align="center"></h3>
+</h1>
 
 <div align="center">
   <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFyODY0YzNxYjFvMWp5amV6cHltbThweTgwYnlkY2ZhOTVsYjFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" />
