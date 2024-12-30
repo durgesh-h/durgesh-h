@@ -20,7 +20,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React**
+ 🔭 I’m currently working on **ReactJs**
  
  🌱 I’m currently learning **Blockchain, Etherium, AWS**
 
