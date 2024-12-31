@@ -24,7 +24,7 @@
  
  🌱 I’m currently learning **Blockchain, Etherium, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/durgesh-h/durgesh-h/issues)**
+💬 Ask me about **Node.js, React.js, Firebase... or anything [here](https://github.com/durgesh-h/durgesh-h/issues)**
 
 
  </div>
