@@ -22,7 +22,7 @@
  
  🔭 I’m currently working on **ReactJs**
  
- 🌱 I’m currently learning **Blockchain, Etherium, AWS**
+ 🌱 I’m currently learning **DevOps, AWS Cloud**
 
 💬 Ask me about **Node.js, React.js, Firebase... or anything [here](https://github.com/durgesh-h/durgesh-h/issues)**
 
