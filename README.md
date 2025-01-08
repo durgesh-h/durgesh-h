@@ -20,7 +20,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ReactJs**
+ 🔭 I’m currently working on **ReactJs & React Native**
  
  🌱 I’m currently learning **DevOps, AWS Cloud**
 
